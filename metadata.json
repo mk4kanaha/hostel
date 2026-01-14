@@ -1,0 +1,8 @@
+{
+  "name": "HostelConnect",
+  "description": "A high-performance hostel communication platform with real-time chat, file sharing, and AI-powered voice/video assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
